@@ -8,7 +8,7 @@ In this project, a simulator is developed and multiple strategies for the dice g
 In Hog, two players alternate turns trying to be the first to end a turn with at least 100 total points. On each turn, the current player chooses some number of dice to roll, up to 10. That player's score for the turn is 
 the sum of the dice outcomes.
 
-Read more [here](/CS61A/hog)
+Read more [here](/hog)
 
 ### Project 2: Yelp Maps
 ![alt text](https://github.com/weikhor/CS61A/blob/master/maps/voronoi.png)
@@ -19,7 +19,7 @@ In the map above, each dot represents a restaurant. The color of the dot is dete
 For example, downtown restaurants are colored green. The user that generated this map has a strong preference for Southside 
 restaurants, and so the southern regions are colored yellow.
 
-Read more [here](/CS61A/maps)
+Read more [here](/maps)
 
 ### Project 3: Project 3: Ants Vs. SomeBees
 ![alt text](https://github.com/weikhor/CS61A/blob/master/ants/splash.png)
@@ -28,7 +28,7 @@ In this project, a tower defense game called Ants Vs. SomeBees. As the ant queen
 
 This project combines functional and object-oriented programming paradigms. The project also involves understanding, extending, and testing a large program.
 
-Read more [here](/CS61A/ants)
+Read more [here](/ants)
 
 ### Project 4: Scheme Interpreter
 ![alt text](https://github.com/weikhor/CS61A/blob/master/scheme/money_tree.png)
@@ -41,7 +41,7 @@ For this project, we have released an alternate version of the project which pro
 
 Later, there will also be an open-ended graphics contest (released separately) that challenges you to produce recursive images in only a few lines of Scheme. As an example, the picture above abstractly depicts all the ways of making change for $0.50 using U.S. currency. All flowers appear at the end of a branch with length 50. Small angles in a branch indicate an additional coin, while large angles indicate a new currency denomination. In the contest, you too will have the chance to unleash your inner recursive artist.
 
-Read more [here](/CS61A/scheme)
+Read more [here](/scheme)
 
 
 
